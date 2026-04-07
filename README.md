@@ -5,4 +5,4 @@ Session 1:
 - skipped it
 ___
 Session 2:
-- testduino     
+- S2E1: testduino (arduino uno rev3 schematics replica)    
