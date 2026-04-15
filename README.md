@@ -6,3 +6,4 @@ Session 1:
 ___
 Session 2:
 - S2E1: testduino (arduino uno rev3 schematics replica)    
+- S2E2: ST_LINK_PROG_2V1
